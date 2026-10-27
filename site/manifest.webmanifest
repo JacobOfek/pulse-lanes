@@ -1,0 +1,23 @@
+{
+ "name": "Pulse Lanes",
+ "short_name": "Pulse Lanes",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#140f22",
+ "theme_color": "#140f22",
+ "icons": [
+  {
+   "src": "/icons/pulse-lanes-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icons/pulse-lanes-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
